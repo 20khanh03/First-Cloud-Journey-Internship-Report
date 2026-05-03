@@ -12,9 +12,7 @@
 
 Deployed via **GitHub Actions**:
 
-https://sharonng1029.github.io/fcj-fall2026-internship-report/
-
-This repository is automatically deployed to GitHub Pages using GitHub Actions workflow.
+[Internship_Report](https://github.com/20khanh03/First-Cloud-Journey-Internship-Report)
 
 ---
 
