@@ -1,9 +1,9 @@
 ---
 title: "WebSocket Integration"
 date: "2026-05-02"
-weight: 3
+weight: 44.4
 chapter: false
-pre: " <b> 5.4.3. </b> "
+pre: " <b> 4.4.4. </b> "
 ---
 
 ## Overview

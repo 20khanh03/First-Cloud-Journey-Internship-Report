@@ -1,9 +1,9 @@
 ---
 title: "Frontend Development: Amplify, Route 53, CloudFront, WAF"
 date: "2025-12-07"
-weight: 44.4
+weight: 44
 chapter: false
-pre: " <b> 4.4.4 </b> "
+pre: " <b> 4.4. </b> "
 ---
 
 # Frontend Development: Amplify, Route 53, CloudFront, WAF
