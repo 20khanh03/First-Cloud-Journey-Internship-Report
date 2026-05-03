@@ -1,3 +1,4 @@
+baseURL = "https://20khanh03.github.io/First-Cloud-Journey-Internship-Report/"
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
